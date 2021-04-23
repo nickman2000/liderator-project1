@@ -1,0 +1,28 @@
+@media screen  and (max-width: 992px){
+    nav, .headermain-place, .main-top, .mainmiditem, .mainbotom, .footitem, .footitem, .footer-bottom{
+        width: 80%;
+    }
+    .head-items{
+        display: none;
+    }
+    nav{
+        justify-content: center;
+    }
+    .head-circle{
+        display: none;
+    }
+}
+@media screen  and (max-width: 576px){
+    .nav, .headermain-place, .main-top, .mainmiditem, .mainbotom, .footitem, .footitem{
+        width: 80%;
+    }
+    
+}
+
+
+@media screen  and (max-width: 330px){
+    .nav, .headermain-place, .main-top, .mainmiditem, .mainbotom, .footitem, .footitem{
+        width: 80%;
+    }
+}
+
